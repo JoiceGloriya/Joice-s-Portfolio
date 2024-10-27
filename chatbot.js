@@ -8,7 +8,7 @@ function handleChat() {
         "bye": "Goodbye! Have a fantastic day!",
         "name": "I am Joice, a second-year CSE student at MIT, Chennai.",
         "who are you": "I am Joice, currently studying Computer Science.",
-        "skills": "I am skilled in Java and C++, with a strong foundation in data structures and algorithms.",
+        "skills": "I am skilled in Java, HTML, CSS, C++ and JavaScript, with a strong foundation in data structures and algorithms.",
         "programming": "I have expertise in Java and C++, focusing on efficient algorithms and data structures.",
         "interests": "I am passionate about AI and Machine Learning and enjoy creating projects like CodeQuest.",
         "passion": "I am deeply interested in AI and Machine Learning.",
