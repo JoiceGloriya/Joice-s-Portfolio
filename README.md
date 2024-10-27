@@ -1,4 +1,4 @@
-# Personal Chatbot
+# Personal Portfolio
 
 ## Overview
 This is a simple portfolio project (with embedded chatbot) created as part of my Skill Development course during my third semester at MIT, Chennai. The chatbot is designed to showcase my skills, interests, and education while providing an interactive experience for users.
